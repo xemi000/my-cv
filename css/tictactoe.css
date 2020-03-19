@@ -1,0 +1,23 @@
+body{
+        padding-left: 25rem;
+        padding-top: 5rem;
+    }
+.boody *{
+        width: 10rem;
+        height: 10rem;
+        float: left;
+        border: 3px;
+    }
+.boody.line1.one  {
+	float: left;
+    border: 3px solid;
+}
+.boody.line2.two {
+	float: left;
+    border: 3px solid;
+}
+.boody.line3.three {
+	float: left;
+    border: 3px solid;
+}
+
