@@ -1,23 +1,26 @@
 body{
-        padding-left: 25rem;
-        padding-top: 5rem;
-    }
+        padding-left: 35rem;
+        padding-top: 7rem;
+        background-color: skyblue;
+        
+}      
 .boody *{
-        width: 10rem;
-        height: 10rem;
+        width: 11rem;
+        height: 11rem;
         float: left;
-        border: 3px;
-    }
-.boody.line1.one  {
-	float: left;
-    border: 3px solid;
+        border: 4px;
 }
-.boody.line2.two {
-	float: left;
-    border: 3px solid;
-}
-.boody.line3.three {
-	float: left;
-    border: 3px solid;
-}
-
+#line1{
+        
+        float: center;
+        border: 5px solid;
+      }
+#line2{
+        
+        float: center;
+        border: 5px solid;
+      }
+#line3{
+        float: center;
+        border: 5px solid;
+      }

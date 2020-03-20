@@ -33,8 +33,9 @@ body{
 }
 .body2 .intro{
     
-    width: 100%;
+    width: 60%;
     padding: 20px;
+
 }
 nav{
     background-color: gray;
@@ -42,7 +43,7 @@ nav{
 h3{
    font-family: Cantarell, 'Open Sans', 'Helvetica Neue';
    font-size: 28px
-
+   text-align:center;
 }
 .body2 .intro .p{
     font-family: 'Open Sans', 'Helvetica Neue'
