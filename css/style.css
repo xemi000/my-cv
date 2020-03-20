@@ -13,6 +13,7 @@ body{
     overflow: hidden;
     background-color: gray;
 }
+
 .nav a{
     float: left;
     display: block;

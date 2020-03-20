@@ -1,26 +1,20 @@
 body{
         padding-left: 35rem;
-        padding-top: 7rem;
+        padding-top: 8rem;
         background-color: skyblue;
-        
-}      
-.boody *{
-        width: 11rem;
-        height: 11rem;
-        float: left;
-        border: 4px;
-}
-#line1{
-        
-        float: center;
-        border: 5px solid;
       }
-#line2{
-        
-        float: center;
-        border: 5px solid;
+.tic {
+    margin-left: 33%;
+    margin-top: 10%;
+    width: 600px;
+    height: 600px;
+    align-items: center;
+    padding: 0;      
+    margin: 0;
+
       }
-#line3{
-        float: center;
-        border: 5px solid;
-      }
+ .tic *{  
+    height: 30%;
+    width: 30%;
+    float: left;
+      }s
